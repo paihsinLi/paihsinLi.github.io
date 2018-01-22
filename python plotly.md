@@ -1,15 +1,4 @@
 
----
-layout: article
-title:  "python plotly简介"
-
-categories: posts infovisnote
-
-image:
-  feature: plotly_logo.jpg
-  teaser: plotly_logo.jpg
- 
----
 
 # 简单介绍python逆天的plotly功能及其安装方法。
 
