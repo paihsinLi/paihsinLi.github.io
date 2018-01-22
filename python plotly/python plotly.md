@@ -1,3 +1,21 @@
+<!doctype html>
+<html class="no-js" lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>python plotly|paihsinli</title>
+		<meta name="description" content="A basic responsive web page – an example from Chapter 1">
+		<meta name="viewport" content="width=device-width">
+			</head>
+			<body>
+---
+layout: article
+title:  "python plotly简介"
+
+categories: posts infovisnote
+
+
+ 
+---
 
 
 # 简单介绍python逆天的plotly功能及其安装方法。
@@ -37,3 +55,9 @@ Plotly，一个用于做分析和可视化的在线平台，曾被网友称为�
 	py = plotly.plotly("Username", "API-Key")
 	
 	<p class="copyright">"中山大学南方学院"<a href="http://wcy.nfu.edu.cn/zh/教学教务/培养方案/网络与新媒体/">网络与新媒体</a>" 培养方案核心课程学期作品，由 "<a href="http://wcy.nfu.edu.cn/zh/学院概况/师资队伍/廖汉腾/">廖汉腾副教授</a>" 指导 "<br>" © 2018 "<a href="https://paihsinLi.github.io">PAIHSINLI</a>" powered by "<a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>" + "<a href="http://mmistakes.github.io/skinny-bones-jekyll/" rel="nofollow">Skinny Bones</a>"."
+	
+	
+	
+	
+	
+	</body>  	</html>
