@@ -1,12 +1,3 @@
-<!doctype html>
-<html class="no-js" lang="en">
-	<head>
-		<meta charset="utf-8">
-		<title>python plotly|paihsinli</title>
-		<meta name="description" content="A basic responsive web page – an example from Chapter 1">
-		<meta name="viewport" content="width=device-width">
-			</head>
-			<body>
 ---
 layout: article
 title:  "python plotly简介"
